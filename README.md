@@ -39,7 +39,3 @@ This portfolio demonstrates my ability to:
 - Write complex SQL queries  
 - Extract insights for business and research questions  
 - Present findings in a structured, reproducible way  
-
----
-
-Feel free to explore each project folder for more details 👇
