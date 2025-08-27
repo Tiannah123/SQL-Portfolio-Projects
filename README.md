@@ -15,12 +15,7 @@ Each project has its own folder with queries, documentation, and explanations.
 - Conducted exploratory analysis on life expectancy trends, GDP, and health indicators  
 - Tools: MySQL  
 
-### 🛒 [Sales Data Analysis](./Sales-Analysis) *(example)*
-- Analyzed sales transactions to uncover revenue trends  
-- Identified top products, customer segments, and seasonal performance  
-- Tools: MySQL  
-
-### 👥 [Customer Churn Analysis](./Customer-Churn) *(example)*
+### 👥 [US Household Income Analysis](./US-Household-Income)
 - Explored customer retention patterns using churn dataset  
 - Identified risk factors for customer loss  
 - Tools: MySQL  
