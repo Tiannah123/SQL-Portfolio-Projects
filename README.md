@@ -15,9 +15,10 @@ Each project has its own folder with queries, documentation, and explanations.
 - Conducted exploratory analysis on life expectancy trends, GDP, and health indicators  
 - Tools: MySQL  
 
-### 👥 [US Household Income Analysis](./US-Household-Income)
-- Explored customer retention patterns using churn dataset  
-- Identified risk factors for customer loss  
+### 🏠 [US Household Income Analysis](./US-Household-Income)
+- Real-world project analyzing US household income data  
+- Cleaned dataset by removing inconsistencies and missing values  
+- Conducted exploratory analysis on income distribution, household sizes, and demographics  
 - Tools: MySQL  
 
 ---
